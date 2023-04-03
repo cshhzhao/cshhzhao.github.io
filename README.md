@@ -1,2 +1,1 @@
-# cshhzhao.github.io
-Welcom to Haihong Zhao's Homepage
+# Haihong Zhao's Homepage
