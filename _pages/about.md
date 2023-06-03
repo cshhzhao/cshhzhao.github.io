@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2022 Ph.D. Candidate in Department of Computer Science at Hong Kong Baptist University, supervised
-by [Prof. Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/). Now, I am a M.Sc student at School of Artificial Intelligence
-at Jilin University, supervised by [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). Before that, I
-obtained my B.Sc. degree in College of Software with high honor from Jilin University in 2019. My research interests
-include Network Representation Learning, Graph Neural Networks, and Complex Systems & Networks.
+I received my B.E. degree in Software Engineering from The College of Software, 
+Jilin University, Changchun, China, in 2019 and my M.sc degree in Computer Science from The 
+School of Artificial Intelligence, Jilin University, Changchun, China, in 2022. My master's 
+supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). My research 
+interests include graph learning and anomaly detection.
 
 Contact me:
 <br/>
