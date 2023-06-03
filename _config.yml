@@ -311,4 +311,5 @@ compress_html:
     envs: development
 
 #favicon ---- 注意要将名称改成这个才可以显示图标，必须是png格式
-favicon: /image/favicon-32x32.png
+#favicon: /image/favicon-32x32.png
+favicon: /image/favicon.png
