@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+<!-- I am a Ph.D. student in Data Science and Analytics at The Hong Kong University of Science and Technology under the 
+supervision of Prof. Jia Li. My research interests include graph learning and anomaly detection.
+
+Previously, I received my B.E. degree in Software Engineering from The College of Software, 
+Jilin University, Changchun, China, in 2019 and my M.sc degree in Computer Science from The 
+School of Artificial Intelligence, Jilin University, Changchun, China, in 2022. My master's 
+supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). -->
+
 I received my B.E. degree in Software Engineering from The College of Software, 
 Jilin University, Changchun, China, in 2019 and my M.sc degree in Computer Science from The 
 School of Artificial Intelligence, Jilin University, Changchun, China, in 2022. My master's 
-supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). My research 
-interests include graph learning and anomaly detection.
+supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). My research interests 
+include graph learning and anomaly detection.
 
 Contact me:
 <br/>
