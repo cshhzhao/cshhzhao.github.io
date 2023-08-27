@@ -21,6 +21,9 @@ Education
 
 Work experience
 ======
+* Research Assistant, [Hong Kong University of Science and Technology](https://hkust.edu.hk/), 2023
+  * Supervisor: Prof. [Jia Li](https://sites.google.com/view/lijia).
+
 * Research Intern, [China Telecom Research Institute](https://www.chinatelecom-h.com/en/company/organization.php), 2018
   * Network R&D and Operation Support Department(网络研发与运营支持部)
 

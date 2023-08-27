@@ -83,11 +83,11 @@ author:
   name             : "Haihong Zhao"
   avatar           : "haihong.jpg"
   bio              : "Ph.D. Candidate" #个人介绍
-  location         : ""
+  location         : "Guangzhou&Hong-Kong, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "zhaohh19@mails.jlu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=IoQU_KEAAAAJ&hl=zh-CN"
+  email            : "hzhaobf@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4188-6517"
+  orcid            : "https://orcid.org/0000-0003-4188-6517"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

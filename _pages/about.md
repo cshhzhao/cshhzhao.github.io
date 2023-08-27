@@ -8,32 +8,44 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a Ph.D. student in Data Science and Analytics at The Hong Kong University of Science and Technology under the 
-supervision of Prof. Jia Li. My research interests include graph learning and anomaly detection.
-
-Previously, I received my B.E. degree in Software Engineering from The College of Software, 
-Jilin University, Changchun, China, in 2019 and my M.sc degree in Computer Science from The 
-School of Artificial Intelligence, Jilin University, Changchun, China, in 2022. My master's 
-supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). -->
-
-I received my B.E. degree in Software Engineering from The College of Software, 
-Jilin University, Changchun, China, in 2019 and my M.sc degree in Computer Science from The 
-School of Artificial Intelligence, Jilin University, Changchun, China, in 2022. My master's 
-supervisor is [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm). My research interests 
-include graph learning and anomaly detection.
+I am currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of 
+Science and Technology under the supervision of Prof. [Jia Li](https://sites.google.com/view/lijia). Previously, I 
+obtained my M.sc degree in Computer Science from the School of Artificial Intelligence at Jilin University in 2022, 
+supervised by [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/18157.htm), and received my B.E. degree in Software 
+Engineering from The College of Software at Jilin University in 2019.
 
 Contact me:
 <br/>
-Email: zhaohh19@mails.jlu.edu.cn
+Email: hzhaobf@connect.ust.hk
+
+<h1>Research Interest</h1>
+My research interests include Graph Foundation Model (e.g., graph neural networks, prompt learning) and 
+Data Mining (e.g., anomaly detection).
 
 <h1 style="color:red">What's  new:</h1>
-<b>[04/2023]</b> Our work is accecpted by TMC!
+<p><b>[08/2023]</b> Joining the Data Science and Analytics Thrust (DSA) at HKUST, and starting my PhD journey! <p> 
+<p> <b>[04/2023]</b> Our work is accecpted by TMC! <p> 
 
 Experience
 ======
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
     <tbody>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/hkust_logo-svg.jpg" width="300">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.</b>
+                <br>
+                Research Assistant (Jun. 2023 - Aug. 2023)
+                <br>
+                Supervisor: Prof. <a href="https://sites.google.com/view/lijia">JIA LI</a>
+            </td>            
+        </tr>
+
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
                 <img src="images/JLU_AI_logo.jpg" width="300">
@@ -44,7 +56,7 @@ Experience
                 <br>
                 Master of Science (Sept. 2019 - Now)
                 <br>
-                Supervisor: Prof. <a href="https://ccst.jlu.edu.cn/info/1026/15449.htm/">BO YANG</a>
+                Supervisor: Prof. <a href="https://ccst.jlu.edu.cn/info/1026/18157.htm">BO YANG</a>
             </td>            
         </tr>
         
