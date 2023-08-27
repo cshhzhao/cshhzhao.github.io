@@ -27,8 +27,7 @@ Data Mining (e.g., anomaly detection).
 <p><b>[08/2023]</b> Joining the Data Science and Analytics Thrust (DSA) at HKUST, and starting my PhD journey! <p> 
 <p> <b>[04/2023]</b> Our work is accecpted by TMC! <p> 
 
-Experience
-======
+<h1>Experience</h1>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
     <tbody>
