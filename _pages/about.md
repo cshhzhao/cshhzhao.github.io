@@ -24,10 +24,10 @@ My research interests include Graph Foundation Model (e.g., graph neural network
 Data Mining (e.g., anomaly detection).
 
 <h1 style="color:red">What's  new:</h1>
-<p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a>" is accecpted by WWW 2024! <p>
-<p><b>[01/2024]</b> Our work named <a href="https://openreview.net/pdf?id=3oTPsORaDH">Improving Generalization in Equivariant Graph Neural Networks with Physical Inductive Biases</a> is accecpted by ICLR 2024! <p>
+<p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a> is accecpted by WWW 2024! <p>
+<p><b>[01/2024]</b> Our work named <a href="https://openreview.net/pdf?id=3oTPsORaDH">"Improving Generalization in Equivariant Graph Neural Networks with Physical Inductive Biases"</a> is accecpted by ICLR 2024! <p>
 <p><b>[08/2023]</b> Joining the Data Science and Analytics Thrust (DSA) at HKUST, and starting my PhD journey! <p> 
-<p> <b>[04/2023]</b> Our work named <a href="https://shenjiaxing.github.io/pdf/zhao2023effective.pdf">Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks</a> is accecpted by TMC! <p> 
+<p> <b>[04/2023]</b> Our work named <a href="https://shenjiaxing.github.io/pdf/zhao2023effective.pdf">"Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks"</a> is accecpted by TMC! <p> 
 
 <h1>Experience</h1>
 
@@ -42,9 +42,23 @@ Data Mining (e.g., anomaly detection).
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.</b>
                 <br>
+                PhD Student (Aug. 2023 - now)
+                <br>
+                Supervisor: Prof. <a href="https://sites.google.com/view/lijia">Jia Li</a>
+            </td>            
+        </tr>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/hkust_logo-svg.jpg" width="300">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.</b>
+                <br>
                 Research Assistant (Jun. 2023 - Aug. 2023)
                 <br>
-                Supervisor: Prof. <a href="https://sites.google.com/view/lijia">JIA LI</a>
+                Supervisor: Prof. <a href="https://sites.google.com/view/lijia">Jia Li</a>
             </td>            
         </tr>
 
@@ -56,9 +70,9 @@ Data Mining (e.g., anomaly detection).
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="http://sai.jlu.edu.cn/">School of Artificial Intelligence</a>, Jilin University.</b>
                 <br>
-                Master of Science (Sept. 2019 - Now)
+                Master of Science (Sept. 2019 - Jun. 2022)
                 <br>
-                Supervisor: Prof. <a href="https://ccst.jlu.edu.cn/info/1026/18157.htm">BO YANG</a>
+                Supervisor: Prof. <a href="https://ccst.jlu.edu.cn/info/1026/18157.htm">Bo Yang</a>
             </td>            
         </tr>
         
