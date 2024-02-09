@@ -20,12 +20,14 @@ Contact me:
 Email: hzhaobf@connect.ust.hk
 
 <h1>Research Interest</h1>
-My research interests include Graph Foundation Model (e.g., graph neural networks, prompt learning) and 
+My research interests include Graph Foundation Model (e.g., graph neural networks, prompt learning, graph transfer learning) and 
 Data Mining (e.g., anomaly detection).
 
 <h1 style="color:red">What's  new:</h1>
+<p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a>" is accecpted by WWW 2024! <p>
+<p><b>[01/2024]</b> Our work named <a href="https://openreview.net/pdf?id=3oTPsORaDH">Improving Generalization in Equivariant Graph Neural Networks with Physical Inductive Biases</a> is accecpted by ICLR 2024! <p>
 <p><b>[08/2023]</b> Joining the Data Science and Analytics Thrust (DSA) at HKUST, and starting my PhD journey! <p> 
-<p> <b>[04/2023]</b> Our work is accecpted by TMC! <p> 
+<p> <b>[04/2023]</b> Our work named <a href="https://shenjiaxing.github.io/pdf/zhao2023effective.pdf">Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks</a> is accecpted by TMC! <p> 
 
 <h1>Experience</h1>
 
