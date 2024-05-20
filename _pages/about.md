@@ -25,7 +25,8 @@ Data Mining (e.g., anomaly detection).
 
 <h1 style="color:red">What's  new:</h1>
 <p><b>[05/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.09834">"All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining"</a> is accecpted by KDD 2024! <p>
-<p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a> is accecpted by WWW 2024! <p>
+<p><b>[05/2024]</b> Receiving the Badge of Recognition (Celebrating my contribution as a speaker) from WWW 2024. <p>
+<p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a> is accecpted by WWW 2024 (Oral)! <p>
 <p><b>[01/2024]</b> Our work named <a href="https://openreview.net/pdf?id=3oTPsORaDH">"Improving Generalization in Equivariant Graph Neural Networks with Physical Inductive Biases"</a> is accecpted by ICLR 2024! <p>
 <p><b>[08/2023]</b> Joining the Data Science and Analytics Thrust (DSA) at HKUST, and starting my PhD journey! <p> 
 <p> <b>[04/2023]</b> Our work named <a href="https://shenjiaxing.github.io/pdf/zhao2023effective.pdf">"Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks"</a> is accecpted by TMC! <p> 
