@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Data Science and Analytics (DSA), HKUST, 2023 - 2026 (Expected)
+    * @Info Hub
+    * Supervisor: Prof. [Jia Li](https://sites.google.com/view/lijia)
 * M.S. in Computer Science, Jilin University, 2019 - 2022
     * @School of Artificial Intelligence
     * Supervisor: Prof. [Bo Yang](https://ccst.jlu.edu.cn/info/1026/15449.htm)
@@ -30,3 +33,7 @@ Work experience
 * Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), 2020-2022
   * Public Technology Team, ICT Products & Solutions 
   * JLU-Huawei Cooperation Project "Prior Knowledge Based xxx"
+
+* Research Intern, [Huawei Research](https://career.huawei.com/reccampportal/portal5/index.html), 2024-2025
+  * Wireless Network Product Line, ICT Products & Solutions 
+  * HKUST(GZ)-Huawei Cooperation Project with the topic named "CSI Prediction"

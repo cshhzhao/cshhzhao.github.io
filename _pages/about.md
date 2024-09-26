@@ -11,7 +11,7 @@ redirect_from:
 I am currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of 
 Science and Technology under the supervision of [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Fugee
 TSUNG](https://seng.hkust.edu.hk/about/people/faculty/fugee-tsung). Previously, I 
-obtained my M.sc degree in Computer Science from the School of Artificial Intelligence at Jilin University in 2022, 
+obtained my M.s. degree in Computer Science from the School of Artificial Intelligence at Jilin University in 2022, 
 supervised by [Prof. Bo Yang](https://ccst.jlu.edu.cn/info/1026/18157.htm), and received my B.E. degree in Software 
 Engineering from The College of Software at Jilin University in 2019. Additionaly, during my master's period, I also 
 worked closely with [Prof. Jiaxing Shen](https://shenjiaxing.github.io/) from Lingnan University, Hong Kong.
@@ -25,6 +25,7 @@ My research interests include Graph Foundation Model (e.g., graph neural network
 Data Mining (e.g., anomaly detection).
 
 <h1 style="color:red">What's  new:</h1>
+<p><b>[09/2024]</b> Our work named <a href="https://arxiv.org/abs/2406.05346">"ProG: A Graph Prompt Learning Benchmark (co-first author)"</a> is accecpted by NeurIPS 2024! <p>
 <p><b>[05/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.09834">"All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining"</a> is accecpted by KDD 2024! <p>
 <p><b>[05/2024]</b> Receiving the Badge of Recognition (Celebrating my contribution as a speaker) from WWW 2024. <p>
 <p><b>[01/2024]</b> Our work named <a href="https://arxiv.org/abs/2402.03785">"Weakly Supervised Anomaly Detection via Knowledge-data Alignment"</a> is accecpted by WWW 2024 (Oral)! <p>
