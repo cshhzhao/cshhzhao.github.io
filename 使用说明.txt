@@ -1,0 +1,6 @@
+1、修改个人主页的信息主要在_pages文件夹下的about.md
+2、修改侧边栏的信息在_config.yml文件；注意markdown文件支持html语法，注意base_path里面的https:;如果网页显示不完整，通过浏览器的F12查看错误原因即可
+3、修改导航栏通过_data文件夹中的navigation.yml文件
+4、修改个人的publication记得在_publication下面的md文件修改
+5、调试或debug还可以通过github的代码仓库中的action按钮下调整
+6、_publication文件夹的md文件中，不能删除其中的任意一项，注释可以加。比如excerpt项，如果不想有内容，直接:后填写''空内容即可
