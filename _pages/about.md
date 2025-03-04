@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of 
+I am currently a second-year Ph.D. student in Data Science and Analytics (DSA) at The Hong Kong University of 
 Science and Technology under the supervision of [Prof. Jia Li](https://sites.google.com/view/lijia) and [Prof. Fugee
 TSUNG](https://seng.hkust.edu.hk/about/people/faculty/fugee-tsung). Previously, I 
 obtained my M.s. degree in Computer Science from the School of Artificial Intelligence at Jilin University in 2022, 
