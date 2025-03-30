@@ -25,6 +25,7 @@ My research interests include Graph Foundation Model (e.g., graph neural network
 Data Mining (e.g., anomaly detection and channel prediction).
 
 <h1 style="color:red">What's  new:</h1>
+<p><b>[03/2025]</b> Our newly released survey named <a href="https://arxiv.org/abs/2503.11086">"A Survey of Cross-domain Graph Learning: Progress and Future Directions"</a> is now available! <p>
 <p><b>[02/2025]</b> Glad to serve as a reviewer for the IEEE Transactions on Communications (A Top-tier Journal in Communications) to review a manuscript on AI for channel modeling! <p>
 <p><b>[12/2024]</b> I was recognized as an Excellent Reviewer by KDD 2025 (August Cycle) <p>
 <p><b>[09/2024]</b> Our work named <a href="https://arxiv.org/abs/2406.05346">"ProG: A Graph Prompt Learning Benchmark (co-first author)"</a> is accecpted by NeurIPS 2024! <p>
