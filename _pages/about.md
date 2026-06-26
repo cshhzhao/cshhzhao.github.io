@@ -45,13 +45,26 @@ Data Mining (e.g., anomaly detection and channel prediction).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/Tencent_Financial_Techn-logo.png" width="300">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://www.tencent.com/zh-cn/business.html">Tencent FiT</a>.</b>
+                <br>
+                Research Intern, Tencent FiT (2026 - now)
+                <br>
+            </td>            
+        </tr>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
                 <img src="images/Weixin_pay_logo.png" width="300">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="https://pay.weixin.qq.com/index.php/public/wechatpay_en/">Weixin Pay</a>.</b>
                 <br>
-                Research Intern, Weixin Pay (2025 - now)
+                Research Intern, Weixin Pay (2025 - 2026)
                 <br>
             </td>            
         </tr>
