@@ -25,6 +25,7 @@ My research interests include Graph Foundation Model (e.g., graph neural network
 Data Mining (e.g., anomaly detection and channel prediction).
 
 <h1 style="color:red">What's  new:</h1>
+<p><b>[05/2026]</b> One first-author work is accecpted by KDD 2026 (Feb Cycle)! <p>
 <p><b>[12/2025]</b> I was honored to receive the DSA Excellence Awards 2025 – Research Excellence Award! <p>
 <p><b>[11/2025]</b> Two first-author works are accecpted by KDD 2026 (August Cycle)! <p>
 <p><b>[03/2025]</b> Our newly released survey named <a href="https://arxiv.org/abs/2503.11086">"A Survey of Cross-domain Graph Learning: Progress and Future Directions"</a> is now available! <p>
