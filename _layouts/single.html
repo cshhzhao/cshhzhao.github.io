@@ -27,6 +27,16 @@ layout: default
     transform-origin: center center;
   }
 
+  /* Site Analytics title link */
+  .site-analytics-link {
+    color: black;
+    text-decoration: none;
+  }
+
+  .site-analytics-link:hover {
+    text-decoration: underline;
+  }
+
   /* Responsive size for smaller screens */
   @media screen and (max-width: 600px) {
     .visitor-globe {
@@ -201,11 +211,18 @@ layout: default
           style="
             text-align: center;
             font-weight: bold;
-            color: black;
             font-size: 18px;
           "
         >
-          Site Analytics
+          <a
+            class="site-analytics-link"
+            href="https://mapmyvisitors.com/web/1c6jk"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="View visitor statistics"
+          >
+            Site Analytics
+          </a>
         </p>
 
         <!-- Original static visitor map
