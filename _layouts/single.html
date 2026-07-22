@@ -3,6 +3,20 @@ layout: default
 ---
 
 <style>
+  /* 静态地图容器样式 */
+    .visitor-map-container {
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      margin: 0 auto;
+    }
+  
+    /* 强制生成的地图图片宽度为原来的一半 (面积即为 1/4) */
+    .visitor-map-container img {
+      width: 50%; 
+      height: auto; /* 保持宽高比防止变形 */
+    }
+  
   /* MapMyVisitors globe container */
   .visitor-globe {
     width: 220px;
@@ -226,7 +240,8 @@ layout: default
         </p> -->
 
         <!-- Original static visitor map -->
-        <div style="text-align: center; display: flex; justify-content: center;">
+        <!-- <div style="text-align: center; display: flex; justify-content: center;"> -->
+        <div class="visitor-map-container">
           <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FznZhkuinuSj3YJL6h6s8HaTmD9Bx0y8WgDLDRDb1XA&cl=ffffff&w=a"></script>
         </div>
        
