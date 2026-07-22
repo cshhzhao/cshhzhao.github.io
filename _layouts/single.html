@@ -3,66 +3,117 @@ layout: default
 ---
 
 <style>
-  /* 静态地图容器样式 */
+
+  /* =========================================
+     MapMyVisitors visitor map
+     ========================================= */
+
   .visitor-map-container {
       text-align: center;
       display: flex;
       justify-content: center;
       margin: 0 auto;
+      overflow: visible;
   }
-  
-  .visitor-map-container svg {
-      width: 300px !important;
-      height: auto !important;
-  }
-  
-  /* MapMyVisitors globe container */
-  /* .visitor-globe {
-    width: 220px;
-    height: 220px;
-    margin: 0 auto;
-    overflow: hidden;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  } */
 
   /*
-   * MapMyVisitors may dynamically generate a div,
-   * iframe, or canvas. Scale the generated top-level element.
-   */
-  /* .visitor-globe > div,
-  .visitor-globe > iframe,
-  .visitor-globe > canvas {
-    flex: 0 0 auto;
-    transform: scale(0.58);
-    transform-origin: center center;
+     MapMyVisitors dynamically creates:
+
+     .mapmyvisitors-map-container
+          |
+          .jvectormap-container
+                 |
+                 svg width="770" height="377"
+
+     The script overwrites svg size,
+     therefore use transform scaling.
+  */
+
+
+  .visitor-map-container 
+  .mapmyvisitors-map-container {
+
+      transform: scale(0.5);
+
+      transform-origin: center top;
+
+      /* remove empty space after scaling */
+      margin-bottom: -180px;
+
   }
 
-  /* Site Analytics title link */
-  .site-analytics-link {
-    color: black;
-    text-decoration: none;
+
+  /* center generated map */
+
+  .visitor-map-container
+  .jvectormap-container {
+
+      margin-left: auto !important;
+      margin-right: auto !important;
+
   }
+
+
+  /*
+     fallback for svg
+     keep original size,
+     transform controls final display size
+  */
+
+  .visitor-map-container svg {
+
+      width: 770px !important;
+
+      height: 377px !important;
+
+  }
+
+
+
+  /* =========================================
+     Site Analytics link
+     ========================================= */
+
+
+  .site-analytics-link {
+
+      color: black;
+
+      text-decoration: none;
+
+  }
+
 
   .site-analytics-link:hover {
-    text-decoration: underline;
+
+      text-decoration: underline;
+
   }
 
-  /* Responsive size for smaller screens */
-  @media screen and (max-width: 600px) {
-    .visitor-globe {
-      width: 190px;
-      height: 190px;
-    }
 
-    .visitor-globe > div,
-    .visitor-globe > iframe,
-    .visitor-globe > canvas {
-      transform: scale(0.48);
-    }
-  } */
+
+  /* =========================================
+     Mobile responsive
+     ========================================= */
+
+
+  @media screen and (max-width:600px){
+
+
+      .visitor-map-container 
+      .mapmyvisitors-map-container {
+
+          transform: scale(0.35);
+
+          margin-bottom: -240px;
+
+      }
+
+
+  }
+
+
 </style>
 
 {% include base_path %}
