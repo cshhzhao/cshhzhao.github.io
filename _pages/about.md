@@ -25,7 +25,7 @@ My research interests include Graph Foundation Model (e.g., graph neural network
 Data Mining (e.g., anomaly detection and channel prediction).
 
 <h1 style="color:red">What's  new:</h1>
-<p><b>[10/2026]</b> Honored to be recognized as a **Top Reviewer** for NeurIPS 2026!</p> 
+<p><b>[10/2026]</b> Honored to be recognized as a <b>Top Reviewer</b> for NeurIPS 2026!</p>
 <p><b>[05/2026]</b> One first-author work is accecpted by KDD 2026 (Feb Cycle)! <p>
 <p><b>[12/2025]</b> I was honored to receive the DSA Excellence Awards 2025 – Research Excellence Award! <p>
 <p><b>[11/2025]</b> Two first-author works are accecpted by KDD 2026 (August Cycle)! <p>
